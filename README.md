@@ -1,5 +1,4 @@
-# ejercicio-react
-Doctor Who project
+
 # Doctor Who con React Next.js
 
 > 👀 This project is a web application made with React.js and Next.js.
