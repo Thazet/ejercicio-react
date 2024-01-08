@@ -1,8 +1,8 @@
-import MyButton from './componentes/button/button-verahora/button'
+import MyButton from './componentes/Button/Button-verahora/Button'
 import styles from './page.module.css'
-import { Menucolor } from "./Menucolor"
 import Image from 'next/image'
-import Header from './componentes/header/header'
+import Header from './componentes/Header/Header'
+
 
 export default function Home() {
   return (
@@ -11,13 +11,8 @@ export default function Home() {
       <main className={styles.main}>
         <h1> Bienvenidas a Next.js</h1>
         <MyButton />
-        <Image
-          src={'/assets/img/logos/logo.png'}
-          width={500}
-          height={500}
-          alt='Logo'
-        />
 
+        <MenuColor />
 
       </main>
     </div>

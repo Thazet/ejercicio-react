@@ -19,7 +19,7 @@ export default function Header() {
                             </div>
                         </div>
                     </div>
-                    <img className="logo" alt="Logo" src="loo.png" />
+                    <img className="logo" alt="Logo" src="logo.png" />
                 </div>
             </div>
         </header>
