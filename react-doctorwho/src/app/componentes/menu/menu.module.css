@@ -1,0 +1,21 @@
+.menu-mobil {
+    background-color: #040521;
+    height: 123px;
+    position: relative;
+    width: 430px;
+    }
+    .menu-mobil .material-symbols {
+    height: 58px;
+    left: 342px;
+    position: absolute;
+    top: 32px;
+    width: 58px;
+    }
+    .menu-mobil .logo {
+    height: 96px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 18px;
+    width: 94px;
+    }

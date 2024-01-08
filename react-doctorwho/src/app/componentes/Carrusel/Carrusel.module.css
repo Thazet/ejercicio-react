@@ -1,0 +1,41 @@
+.box {
+    height: 722px;
+    width: 430px;
+}
+
+.box .carrusel-mobile {
+    background-image: url(./rectangle-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 722px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 430px;
+}
+
+.box .text-carrusel {
+    height: 171px;
+    left: 12px;
+    position: relative;
+    top: 293px;
+    width: 257px;
+}
+
+.box .ver-ahora-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 97px !important;
+}
+
+.box .div {
+    color: #ffffff;
+    font-family: "Lato-ExtraBold", Helvetica;
+    font-size: 48px;
+    font-weight: 800;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
