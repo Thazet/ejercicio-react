@@ -5,7 +5,7 @@ Doctor Who is a British science fiction television series broadcast by the BBC s
 
 ## 📓 Installation
 
-To run this project locally, you will need NodeJS installed on your machine along with npm package.The app works on the following operating systems: Windows, Linux and macOS.
+To run this project locally, you will need NodeJS installed on your machine along with npm package. The app works on the following operating systems: Windows, Linux, and macOS.
 
 1. Clone the repository on your computer:
 
